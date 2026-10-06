@@ -1,18 +1,14 @@
-# Crossfield Engineering Services
+# Crossfield Engineering
 
-Production website for Crossfield Engineering Services.
+Official website repository for **Crossfield Engineering**, the operating brand of **CROSSFIELD ENGINEERING SERVICES LTD** (UK company number **13777660**).
 
-## Live site
+Website: https://crossfield-engineering.com/
 
-https://crossfield-engineering.com
+Crossfield provides engineering consultancy and project-delivery advisory across PMO/PMC, project controls, construction management, facilities and asset management, data centres, bids and tendering, procurement, commercial and contracts advisory, AI-enabled operations, digital transformation, strategy and growth across the UK, Saudi Arabia and the UAE.
+
+Official UK company record:
+https://find-and-update.company-information.service.gov.uk/company/13777660
 
 ## Hosting
 
-- Hosted on GitHub Pages from the `main` branch.
-- Custom domain is configured through the repository `CNAME` file.
-- Production hosting is independent of Replit.
-- The deployed website is self-contained in `index.html`.
-
-## Deployment
-
-Changes committed to `main` are published by GitHub Pages. DNS for the apex domain and `www` is managed at GoDaddy.
+Hosted on GitHub Pages from the `main` branch with the custom domain `crossfield-engineering.com`.
