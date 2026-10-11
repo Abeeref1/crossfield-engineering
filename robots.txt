@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://crossfield-engineering.com/sitemap.xml
+Sitemap: https://crossfield-engineering.com/priority-sitemap.xml
